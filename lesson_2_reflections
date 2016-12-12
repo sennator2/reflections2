@@ -2,6 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 Git directory is created. I need it so Git can be used on file, thats the only way Git would make track of my files
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It gives an added option on not commiting instantly and merging files before actually making a commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
