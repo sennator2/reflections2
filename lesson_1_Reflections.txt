@@ -1,0 +1,4 @@
+I could compare them side by side and notice that there was
+change in code
+
+It would make it easier to compare old and new files, rather than searching manually through one file
